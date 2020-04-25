@@ -1,0 +1,4 @@
+#Sat Apr 25 15:48:51 IST 2020
+base.0=/media/anupamgupta/USER/RN_Project/Asteriod/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
